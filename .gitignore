@@ -16,3 +16,4 @@
 
 # Pyc files
 *.pyc
+db.sqlite3
