@@ -1,7 +1,7 @@
 # Et.mark
 
 > A simple app for markdown documents
-[image image](https://i.imgur.com/yQdF37G.png?2)
+![image image](https://i.imgur.com/yQdF37G.png?2)
 
 
 ## Build Setup
