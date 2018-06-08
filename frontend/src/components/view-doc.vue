@@ -43,7 +43,7 @@ export default {
 }
 </script>
 
-<style scoped="true">
+<style scoped>
 .wrapper {
     /*-webkit-box-shadow: 0px 5px 8px -5px  #e4e2e9;
     -moz-box-shadow: 0px 5px 8px -5px  #e4e2e9;
