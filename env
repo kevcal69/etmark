@@ -1,0 +1,6 @@
+# list of envs to be set
+SECRET_KEY=
+DB_NAME=
+DB_PORT=
+DB_USER=
+DB_HOST=

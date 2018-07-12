@@ -2,13 +2,15 @@ const path = require('path')
 const merge = require('webpack-merge');
 const common = require('./webpack.config.js');
 
+const publicPathURL = process.env.STATIC_URL || '/static/';
+
 module.exports = merge(common, {
   mode: 'production',
   output: {
     path: path.resolve(__dirname, 'vue-template'),
     filename: '[name].chunkhash.bundle.js',
     chunkFilename: '[name].chunkhash.bundle.js',
-    publicPath: '/static/'
+    publicPath: publicPathURL
   },
   devtool: '',
   optimization: {
