@@ -13,7 +13,7 @@
     "antv": "^0.2.2",
     "autosize": "^4.0.2",
     "axios": "^0.18.0",
-    "marked": "^0.4.0",
+    "marked": "^4.0.10",
     "vue": "^2.5.16",
     "vue-contenteditable-directive": "^1.2.0",
     "vue-router": "^3.0.1",
